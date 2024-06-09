@@ -3,10 +3,20 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/75efbc4b-b137-4b17-b76a-6b85689446d4/0.m3u8ighlatency.m3u8?type=live
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Sky Sport Cricket
+https://live2.notebulk.xyz/uk_sscricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Live Sports
+https://beecdn.wadim77289.workers.dev/NFL_Network_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Parsiana Sports 
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e_output_0.m3u8?session=gpHkdZuSeHhTofYttSikxo
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Cricket Gold
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg",T Sports
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=4R-EbINIMNM4Tt2aT74blw&expires=1717810873&user=c15be118d93a464dabf77260596012cf
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png",WILLOW Xtra
-https://crichd.site/cn1/play.php?key=AKI&c=willowextra&ts=https://n2.dramaticreadings.com:999/hls/willowextra-53472.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png",WILLOW HD
+https://live2.notebulk.xyz/us_willow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png",WILLOW Xtra
+https://beecdn.wadim77289.workers.dev/Willow_Extra_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Sports
 https://crichd.site/cn1/play.php?key=AKI&c=asportshd&ts=https://n3.dramaticreadings.com:999/hls/asportshd-9290.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Sony Ten 1
