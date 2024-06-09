@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",WILLOW
-https://live.notebulk.xyz/BoiDRGoM2Dlhj3fDic7S8A/1717791128/us_willow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Live Sports
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-0FE8cnZDrgp-puggC-sI5w8ymRFBSUYuD5dyWkkyoujHnVLdheMMBN_tHsxDuQ0rr5MQZk5HbfXQ-2yreYwXQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg",T Sports
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=4R-EbINIMNM4Tt2aT74blw&expires=1717810873&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png",WILLOW Xtra
